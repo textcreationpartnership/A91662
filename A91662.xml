@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A reply to Sir William Killigrews dispersed papers by the owners and commoners in Lincolnshire.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91662</idno>
+            <idno type="STC">Wing R1062</idno>
+            <idno type="STC">Thomason 669.f.19[64]</idno>
+            <idno type="STC">ESTC R212236</idno>
+            <idno type="EEBO-CITATION">99870878</idno>
+            <idno type="PROQUEST">99870878</idno>
+            <idno type="VID">163400</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91662)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163400)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f19[64])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A reply to Sir William Killigrews dispersed papers by the owners and commoners in Lincolnshire.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from  Wing.</note>
+                  <note>Annotation on Thomason copy: [first margin note, the third word has been marked over, and replaced with "grand"].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Killigrew, William, --  Sir, 1606-1695 --  Early works to 1800.</term>
+               <term>Lindsey, Montague Bertie, --  Earl of, 1608?-1666 --  Early works to 1800.</term>
+               <term>Drainage --  England --  Lincolnshire --  Early works to 1800.</term>
+               <term>Lincolnshire (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:163400:1" rendition="simple:additions"/>
+            <head>A Reply to Sir William Killigrews diſperſed Papers, by the Owners and Commoners in Lincolnſhire.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>O the firſt.</hi> We are civilly ſenſible of the Parliaments affairs, as appeared by the manner of our petitioning: We
+conceive there cannot be a time found to ſettle the Fens in the Earl of <hi>Lindſey,</hi> who petitions not for them, nor
+in Sir <hi>William Killigrew,</hi> who hath nor produced to the Committee any Deed or Conveyance, whereby to de<g ref="char:EOLhyphen"/>rive
+a Title to himſelf. We may complain of unhappineſs, who have been delayed and interrupted in our
+Drainings theſe ſixty yeers by Court Undertakers: We cannot be called obſtructors of a Bill, that petitions for
+one: If it was good manners for us to print what we hear and are credibly informed, we could tell to whom Sir
+<hi>Thomas Dawes</hi> is indebted, and to whom Sir <hi>William Killigrew</hi> is ingaged; and that our Lands muſt diſcharge
+thoſe debts and ingagements; and who are intereſſed in other Undertakings. But to avoid calumniation, we will hold our bab<g ref="char:EOLhyphen"/>bles;
+perſons of quality are ſeldom tatlers. To invite and incourage people in a good cauſe, is noble, honeſt, and commendable:
+humbly to petition, cannot be called clamour by a tongue well guided. We cannot learn of any Votes that paſſed againſt us, nei<g ref="char:EOLhyphen"/>ther
+can we believe it, nor that any of this Parliament is againſt us, who was ſo much for them; nor that the Fens can be loſt, if
+kept out of the hands of Parliament-deſtroyers. We ſhall never be ſo uncivil or unnatural, as to leave our wives and children at
+the Parliaments door: no<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> can we imagine that ever any thing will come from thence to cauſe them to beg at other mens doors.</p>
+            <p>
+               <hi>To the ſecond.</hi> Sir <hi>William</hi> knows the poor need no invitations; it was they onely who were found guilty, and puniſhed for pul<g ref="char:EOLhyphen"/>ling
+down their houſes, &amp;c. as appears by ſeveral Indictments, when Sir <hi>Williams</hi> friends and ſharers was by Court power made
+high Sheriff and Juſtices of the peace, and Parliament men put out: The riots committed by Sir <hi>William,</hi> Agents and parties, was
+far more notorious, as appears by record, then thoſe committed by the poo<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> people. Had Sir <hi>Williams</hi> charity ſooner appeared,
+it might have been better for him and us. He argues Leveller-like, to gain the poor by telling them that is theirs they have no
+propriety in; for all Lawyers will tell him, right of Common belongs to the Lands and Houſes of men, and not to their perſons;
+and ſuch poor as have Land or Cottage, hath as good right of Commons, as he that hath a hundred acres. We are as willing our
+Common ſhould be ſtinted and enjoyed in common, if ſo thought fit, as any poor man can deſire it; practiſe that onely, and con<g ref="char:EOLhyphen"/>demn
+us if we oppoſe it. When Sir <hi>Williams</hi> power prevailed, it is well known how the poor was oppreſſed; ſo that his charity
+and arguments are but ſelf ends. He ſaith the rich men of <hi>Boſton</hi> eat up the Common with great ſtocks, and ſo he ſaith of the reſt
+of the Towns, which great ſtock thoſe Fens ever maintained before Sir <hi>William</hi> knew the Country, and is an argument the Fens
+are not at all hurtfully ſurrounded grounds, and needs draining, ſince they bear ſuch great ſtocks. He ſaith the Commoners would
+defraud the State of eight thouſand acres in the eight hundred Fenne: It is he that would defraud the State, by inviting them
+to own what was condemned in the King; and ſo metamorphize a dear-bought Commonwealth into a Kingdom again. He
+knows the King, when Court-power ruled, having no Title, could never out the Commoners, though he perplexed them with
+long and tedious ſuits in the Court of Exchequer, where he was caſt; and the Commoners poſſeſſions never interupted.</p>
+            <p>
+               <hi>To the third.</hi>
+               <note place="margin">Witneſſe the <gap reason="illegible: blotted" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>une Remon<g ref="char:EOLhyphen"/>ſtrance, <hi>pag.</hi> 7.</note> We ſay, it is great diſcretion in Sir <hi>William</hi> not to reply to books, he is ſo unable to anſwer. But we much value,
+that after a cauſe ſo fully heard in Parliament, as to be remonſtrated a grievance, it ſhould now be a queſtion, whether the grie<g ref="char:EOLhyphen"/>vers
+ſhould be recompenced or not. What our petitions or repetitions ſignifie, we muſt leave to the judgement of the Readers,
+who will ſoberly determine who is moſt clamourous. He faith it is but ſom few men that oppoſe him: We will joyn iſſue with
+him there, if he can either of perſons or hands procure four in ten, of rightful Owners and Commoners, we will ceaſe in oppo<g ref="char:EOLhyphen"/>ſing
+him. Sir <hi>William</hi> much inſiſteth upon the Act or Bill that is ordered by the Houſe to be brought in by <hi>Jo: Gooding</hi> 
+               <abbr>Eſq</abbr> a
+Member thereof, as if it was either made by or with his and his ſharers privity; for he ſaith the delay of it will ſtarve them (it is
+better ſtarving ten then ten thouſand.) But we cannot but imagine he abuſeth that worthy Member, in fomenting cauſe of jea<g ref="char:EOLhyphen"/>louſie,
+being well aſſured the Houſe ordered no compliance more with them then us. Sure we are, we have had no inſight or
+privity at all to the Bill, and why they ſhould we wonder. It is ſtrange that one who hath received ſo much mercy, ſhould be
+ſtill ſo foul-mouthed, as to call humble Petitioners riotters and abettors. He falſely accuſeth us for riotters, we having recovered
+our Eſtates by trial at Law, and yet invites us to be ſo, in excepting againſt many rich men, being truſted to repreſent the grie<g ref="char:EOLhyphen"/>vances
+of thouſands; as if it was fit to trouble the Parliament with multitudes. But as before, if Sir <hi>William</hi> can procure the
+greater number, we will be ſilent. We know none in <hi>England</hi> that oppoſeth drainings, neither do we believe any in <hi>England</hi>
+think us ſuch fools or mad men, that we need Guardians for our Eſtates. We are perſwaded few of the Nation knows how we
+have been abuſed by Court Undertakers: if they did, they would wonder ſuch Propriety-deſtroyers ſhould go unpuniſhed.</p>
+            <p>
+               <hi>To the fourth.</hi> We are ſorry to hear Sir <hi>William</hi> glory in oppreſſion, our impriſonments, fining, ſelling our cattel, without any
+account making, taking our Land againſt our conſents, and commanding Commiſſioners by the Kings Letters, deſerves little ap<g ref="char:EOLhyphen"/>plauſe,
+and expreſſeth leſs equity. Produce the conſent gained of the greateſt part of the eminenteſt Lords, Owners, and Com<g ref="char:EOLhyphen"/>moners,
+otherwaies then by force, and we will acquieſ<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. As for the improvement made, we ſhall ſubmit to the view of indifferent
+honeſt Gentlemen, who may judge by the ſoyle turned up, what was the former condition of the Fens. Sir <hi>William</hi> argues much
+for Recompence (we can eaſily prove a good retompence he hath received) for our parts,<note place="margin">
+                  <hi>Micah</hi> 2. 1, 2, 3, 4, 5, ſhews what recom<g ref="char:EOLhyphen"/>pence ſuch deſerve.</note> we have more cauſe to expect it,
+many of the Commoners having loſt their lives and eſtates in the Parliaments ſervice, by the violence of Sir <hi>William</hi> and his par<g ref="char:EOLhyphen"/>ticipants,
+which blood was of greater value then any eſtate Sir <hi>William</hi> ever had. If we be unable to ſatisfie his pretended eſtate,
+he is far more unable to anſwer for our bloud and eſtates, he and his paticipants in the late war ſo laviſhly ſhed &amp; ſpoiled. In the
+pardon of his violence done to the five Members, and his hoſtility to the Parliament, he hath received more theu ever we did
+for our lives and eſtates we loſt and hazarded. What <hi>Bedford</hi> Act is, concerns not us, their convenience and inconveniences
+may not be the ſame with ours. It is high preſumption for ſuch an offendor as Sir <hi>William</hi> hath been, to ſay its vain to petition a
+Parliament. Could his birds prevail there as they did at Court, he would anticipate the juſtice thereof, and divide betwixt
+them and the people; the which we hope providence (that in our extremity raiſed us up a parliament) will prevent. In a late
+paper Sir <hi>William</hi> boaſteth of 78 Commiſſioners that did act for him. Its well known how unwilling they were to act, untill
+they were commanded by the Kings letters. Again, thoſe Gentlemen were not actors in that which was the root of the evill;
+for the view of what grounds was hurtfully ſurrounded betwixt <hi>Broune</hi> and <hi>Kime Eae,</hi> was taken only by Undertakers and Sha<g ref="char:EOLhyphen"/>rers,
+<hi>viz.</hi> the Earl of <hi>Lindſey,</hi> the Lord <hi>Willoughby</hi> his ſon, Sir <hi>Edward Heron,</hi> Sir <hi>John Brooks, William Langton,</hi> and <hi>Robert Long</hi>
+               <abbr>Eſq</abbr> theſe being for themſelves, were tempted with that ſin of covetouſneſs (yet unreformed) and certified that all was hurtfully
+ſurrounded; the other Gentlemen not privie to the deſign, being commanded by the Kings Letters to proceed accordingly; and
+did, until they underſtood the evil of that deſign, and then they endeavoured to oppoſe it. But when the Undertakers perceived
+their diſlike of the proceedings, they put out of Commiſſion of Sewers thoſe Gentlemen, of which number Sir <hi>William Armin</hi> and
+Mr. <hi>Liſter</hi> were two; and neither of them viewed the Fens now in queſtion. We wonder Sir <hi>William Killigrew</hi> ſhould ſo unwor<g ref="char:EOLhyphen"/>thily
+charge Sir <hi>William Armin,</hi> that worthy deceaſed Member, as a Viewer, who cleared his innocency of that act before the
+Committee of the Fens. Though what he ſaid, and what Sir <hi>Anthony Irby</hi> teſtified before the Committee, what Fens he and o<g ref="char:EOLhyphen"/>thers
+meaut, when they writ to the King for an Undertaker, be left out of the depoſitions, yet many worthy Members and Gen<g ref="char:EOLhyphen"/>tlemen
+ſtanding by remembers it. Sir <hi>Anthony Irby</hi> being ſtill living, we deſire he may againſt, if occaſion requires it, declare him<g ref="char:EOLhyphen"/>ſelf;
+he formerly teſtified, that it was not meant the Fens between <hi>Bourne</hi> and <hi>Kime Ea<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> If Sir <hi>William,</hi> &amp;c. have any legal right,
+we will willingly joyn with him in fair Trial at Law or Equity.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
